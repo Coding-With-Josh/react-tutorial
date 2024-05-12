@@ -1,9 +1,9 @@
 ## React-tutorial
 To create a vite app, use
-$ npm create vite@latest 
+`npm create vite@latest`
 
 Then enter your project directory using
-$ cd your-app
+`cd your-app`
 
 Then type
-$ npm install
+`npm install`
